@@ -1,0 +1,15 @@
+Cracovia
+Krakow
+Jan Kowalski 132456123
+11
+Natan Brzezinski 1452458965 2000 12 2 12 Bramkarz brak 1
+Rafal Kubiak 456125478 2001 4 30 23 Bramkarz brak 0
+Michal Krajewska 214596854 2003 3 12 14 Obronca Pomocnik 0
+Ksawery Gorski 254152485 2004 2 12 56 Obronca Pomocnik 1
+Kryspin Mroz 325412548 2001 6 6 6 Obronca Pomocnik 2
+Hubert Jaworski 325665665 2002 4 4 45 Pomocnik Obronca 3
+Przemyslaw Kucharski 325658147 2001 1 1 11 Pomocnik Obronca 4
+Konrad Wasilewska 325125568 2003 5 5 98 Pomocnik Napastnik 5
+Heronim Kowalczyk 356985147 2000 9 9 78 Napastnik Pomocnik 14
+Cyprian Tomaszewski 326354153 2001 5 5 65 Napastnik Pomocnik 12
+Oktawian Kozlowski 365684485 2003 1 2 16 Napastnik brak 1
